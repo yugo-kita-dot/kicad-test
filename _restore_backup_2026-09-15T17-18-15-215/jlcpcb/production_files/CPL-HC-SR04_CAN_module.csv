@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_Disc_D5.0mm_W2.5mm_P2.50mm,164.465,-100.33,90.0,top
+C2,100n,C_Disc_D5.0mm_W2.5mm_P2.50mm,151.785,-92.71,0.0,top
+C3,100n,C_Disc_D5.0mm_W2.5mm_P2.50mm,136.525,-88.92,-90.0,top
+CAN1,Conn_01x04_Pin,JST_XA_S04B-XASK-1_1x04_P2.50mm_Horizontal,119.98604,-89.094187,-90.0,top
+H1,MountingHole,MountingHole_3.2mm_M3,169.855629,-71.755,0.0,top
+H2,MountingHole,MountingHole_3.2mm_M3,119.855629,-71.755,0.0,top
+HC-SR04,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,144.855629,-71.755,-90.0,top
+J2,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,128.275,-71.12,-90.0,top
+R1,120,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,131.445,-88.9,-90.0,top
+U1,~,ESP32_30pin,144.263353,-89.141727,90.0,top
+U2,MCP2562-E-P,DIP-8_W7.62mm,143.51,-88.9,0.0,top
+can2,Conn_01x04_Pin,JST_XA_S04B-XASK-1_1x04_P2.50mm_Horizontal,169.725219,-89.094187,90.0,top
